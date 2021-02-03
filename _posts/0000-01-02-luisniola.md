@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the second slide!"
 ----
-Your text
+*This text will be italic*
 Use the left arrow to go back!
